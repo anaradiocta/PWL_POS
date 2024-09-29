@@ -1,3 +1,13 @@
+<h1>assalamualaikum pak Dimas mohon maaf sebelumnya, ijin mengkonfirmasi pada tanggal 26 Sept kemaren ini repo github saya tampilan dashboard adminlte nya tidak dapat terhubung dengan database pak sehingga tampilan menu data user nya seperti ini.
+    ![WhatsApp Image 2024-09-26 at 21 41 01_4a49cb39](https://github.com/user-attachments/assets/abbaa6e8-2454-435c-9dfb-34c359158e60)
+    ![image](https://github.com/user-attachments/assets/ffc83449-a310-4659-a7f2-30aae0249c7d)
+
+    dikarenakan sudah 2 hari tidak ada perubahan walaupun sudah saya modifikasi akhirnya saya memutuskan untuk mengulang dari awal pak sehingga saya melakukan pembuatan repository baru, berikut link repo POS terbaru saya. Terimakasih</h1>
+- https://github.com/anaradiocta/POS
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
